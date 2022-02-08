@@ -2,6 +2,7 @@
 	"short_name": "PWA List",
 	"name": "Progressive Web Apps",
 	"display": "standalone",
+	"start_url": "/",
 	"icons": [
 		{
 			"src": "favicon.ico",
@@ -34,7 +35,6 @@
 			"type": "image/svg"
 		}
 	],
-	"start_url": ".",
 	"theme_color": "#5ac1f2",
 	"background_color": "#383838"
 }
