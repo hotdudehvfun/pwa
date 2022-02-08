@@ -3,17 +3,17 @@
   "name": "Progressive Web Application",
   "icons": [
     {
-      "src": "/img/icons/android-icon-192x192.png",
+      "src": "img/icons/android-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icons/android-icon-512x512.png",
+      "src": "img/icons/android-icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/pwa/",
   "background_color": "#FF0000",
   "scope": ".",
   "display": "standalone",
